@@ -86,10 +86,10 @@
 /************************************************************************/
 /******/ ({
 
-/***/ "./assets/src/js/bundle.js":
-/*!*********************************!*\
-  !*** ./assets/src/js/bundle.js ***!
-  \*********************************/
+/***/ "./src/js/bundle.js":
+/*!**************************!*\
+  !*** ./src/js/bundle.js ***!
+  \**************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -98,13 +98,13 @@
 /***/ }),
 
 /***/ 0:
-/*!***************************************!*\
-  !*** multi ./assets/src/js/bundle.js ***!
-  \***************************************/
+/*!********************************!*\
+  !*** multi ./src/js/bundle.js ***!
+  \********************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\xampp\htdocs\teste\base-wordpress\wp-content\themes\Iungo\assets\src\js\bundle.js */"./assets/src/js/bundle.js");
+module.exports = __webpack_require__(/*! C:\xampp\htdocs\base-wordpress\wp-content\themes\Tema2020\assets\src\js\bundle.js */"./src/js/bundle.js");
 
 
 /***/ })
