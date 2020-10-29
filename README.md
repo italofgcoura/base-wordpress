@@ -6,10 +6,16 @@ Tema base para adcionar novos temas do zero ao wordpress.
 # **INSTRUÇÕES** #
 
 **1 -** Clonar o projeto do git
+
 **2 -** Criar banco vazio no phpmyadmin ou mysql workbench
+
 **3 -** Alterar o nome do banco de dado em wp-config.php para o banco criado e acessar o projeto no browser
+
 **4 -** Seguir passos de instalação do wordpress
+
 **5 -** Navegar até a pasta assets dentro do thema TEMA 2020 e rodar o comando npm i -> instalará todas dependências
+
+**6 -** Dentro do arquivo gulpfile.babel.js, na função 'serve', linha 21, alterar para o caminho do projeto.
 
 
 **_EM DESENVOLVIMENTO_**
