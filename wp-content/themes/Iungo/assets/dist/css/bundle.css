@@ -1,1 +1,10 @@
-.container{background-color:red}.container:hover{background-color:#00f;color:#000}body{background-color:green}
+.container {
+  background-color: red; }
+  .container:hover {
+    background-color: blue;
+    color: black; }
+
+body {
+  background-color: green; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYnVuZGxlLmNzcyIsInNvdXJjZXMiOlsiYnVuZGxlLnNjc3MiLCJjb21wb25lbnRzL21haW4uc2NzcyJdLCJzb3VyY2VzQ29udGVudCI6WyIvL3NyYy9zY3NzL2J1bmRsZS5zY3NzXHJcbkBpbXBvcnQgJy4vY29tcG9uZW50cy9tYWluLnNjc3MnOyIsIi5jb250YWluZXIge1xyXG4gICAgYmFja2dyb3VuZC1jb2xvcjogcmVkO1xyXG4gICAgJjpob3ZlciB7XHJcbiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogYmx1ZTtcclxuICAgICAgICBjb2xvcjogYmxhY2s7XHJcbiAgICB9XHJcbn1cclxuXHJcbmJvZHkge1xyXG4gICAgYmFja2dyb3VuZC1jb2xvcjogZ3JlZW47XHJcbn0iXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFDQUEsQUFBQSxVQUFVLENBQUM7RUFDUCxnQkFBZ0IsRUFBRSxHQUFHLEdBS3hCO0VBTkQsQUFFSSxVQUZNLEFBRUwsTUFBTSxDQUFDO0lBQ0osZ0JBQWdCLEVBQUUsSUFBSTtJQUN0QixLQUFLLEVBQUUsS0FBSyxHQUNmOztBQUdMLEFBQUEsSUFBSSxDQUFDO0VBQ0QsZ0JBQWdCLEVBQUUsS0FBSyxHQUMxQiJ9 */
