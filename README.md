@@ -5,17 +5,18 @@ Tema base para adcionar novos temas do zero ao wordpress.
 
 # **INSTRUÇÕES** #
 
-**1 -** Clonar o projeto e instalar o wordpress (alterar o nome do banco de dado em wp-config.php, o nome atual está como iungo_db)
+**1 -** Clonar o projeto do git
+**2 -** Criar banco vazio no phpmyadmin ou mysql workbench
+**3 -** Alterar o nome do banco de dado em wp-config.php para o banco criado e rodar o projeto
+**4 -** Seguir passos de instalação do wordpress
+**5 -** Navegar até a pasta assets dentro do thema Iungo e rodar o comando npm i -> instalará todas dependências
 
-**2 -** Navegar até a pasta assets dentro do thema Iungo e rodar o comando npm i -> instalará todas dependências
 
-**3 -**
-
-**EM DESENVOLVIMENTO**
+**_EM DESENVOLVIMENTO_**
 npm start -> para rodar o projeto 
 	O projeto irá iniciar e será aberta uma tela com o projeto
 
-**PARA MINIFICAR PARA PRODUÇÃO**
+**_PARA MINIFICAR PARA PRODUÇÃO_**
 gulp build --prod
 
 
