@@ -1,11 +1,13 @@
+@import '../variables/variables.scss';
 .container {
     background-color: red;
+    color: $verdeescuro;
     &:hover {
-        background-color: blue;
+        background-color: gray;
         color: black;
     }
 }
 
 body {
-    background-color: green;
+    background-color: $verdeescuro;
 }
