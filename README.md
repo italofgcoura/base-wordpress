@@ -1,7 +1,7 @@
-# base-wordpress
+# Base-Wordpress
 Tema base para adcionar novos temas do zero ao wordpress.
 
-
+# ATENÇÃO -> NA DATA DE HOJE 04/02/2021 HÁ UM BUG COM A VERSÃO 8 DO PHP, ENTÃO PARA RODAR O PROJETO UTILIZAR PHP EM UMA VERSÃO ANTERIOR
 
 # **INSTRUÇÕES** #
 
